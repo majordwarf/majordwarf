@@ -5,7 +5,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/majordwarf/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a target="_blank" href="https://majordwarf.io">
+<a target="_blank" href="https://majordwarf.me">
     <img src="https://img.shields.io/badge/Blog-%23CC0000.svg?&style=for-the-badge&logo=Rss&logoColor=white" />
 </a>
 <a target="_blank" href="mailto:tejastank10@gmail.com">

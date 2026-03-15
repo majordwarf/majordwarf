@@ -1,6 +1,6 @@
-## Hi 👋, I‘m Tejas Tank
+## Hi 👋, I'm Tejas Tank
 
-##### Yet another DevOps and Infrastrucutre Engineer, proficient in architecting robust systems, optimizing cloud technologies, and weaving together seamless deployment pipelines. Find out more about me & feel free to connect with me here:
+##### Multi-faceted Software Engineer who loves messing with AI integration, Distributed Systems, and shipping rock-solid DevOps infrastructures. Currently, building scalable infrastructure at smallcase. Find out more about me and feel free to connect with me here:
 
 <a target="_blank" href="https://www.linkedin.com/in/majordwarf/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />

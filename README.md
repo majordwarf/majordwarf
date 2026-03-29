@@ -18,7 +18,7 @@ Multi-faceted Software Engineer who loves messing with **AI integration**, **Dis
 <a href="https://www.linkedin.com/in/majordwarf/">
   <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://majordwarf.me">
+<a href="https://tejastank.me/blog">
   <img src="https://img.shields.io/badge/Blog-FF4D8D?style=flat-square&logo=rss&logoColor=white"/>
 </a>
 <a href="mailto:tejastank10@gmail.com">
